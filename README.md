@@ -4,6 +4,7 @@ Technical solutions made public
 API testing using JMeter - https://jmeter.apache.org/.
 
 
+## Task
 Prepare a test automation framework that is able to test REST API using agreed 
 automation tool or programming language for the given System under test and Test 
 Cases written below
@@ -12,7 +13,7 @@ System under test
 • https://reqres.in/
 
 
-Test Case 1 – GET - List Users
+###### Test Case 1 GET - List Users
 - Send a proper Request.
 - Assert received data in Response:
   - “total”
@@ -21,7 +22,7 @@ Test Case 1 – GET - List Users
 “total”
 
 
-Test Case 2 – POST – Create
+###### Test Case 2 – POST – Create
 - Send proper request.
 - In received Response assert:
   - HTTP code
