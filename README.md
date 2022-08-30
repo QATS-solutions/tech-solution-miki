@@ -26,6 +26,6 @@ System under test
 - Send proper request.
 - In received Response assert:
   - HTTP code
-  -ID and year of creation
+  - ID and year of creation
 - Assert whether Response time was less than a variable (e.g. limit = 100 ms)  
 - Make the test data driven. Use external source of data.
