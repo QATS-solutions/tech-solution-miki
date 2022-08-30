@@ -1,5 +1,4 @@
 # tech-solution-miki
-Technical solutions made public
 
 API testing using JMeter - https://jmeter.apache.org/.
 
